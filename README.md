@@ -7,9 +7,8 @@
 </p>
 <h4 align="center">
     <a href="https://demo.evershop.io/">Demo</a>
+   <a href="[https://demo.evershop.io/](https://app.decktopus.com/share/80ScCFegl/s/1)">Presentation</a>
   
-      <a href=" https://app.decktopus.com/share/80ScCFegl/s/1">presentation</a>
-
  </h4>
 
 
