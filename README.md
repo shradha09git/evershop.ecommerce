@@ -7,7 +7,10 @@
 </p>
 <h4 align="center">
     <a href="https://demo.evershop.io/">Demo</a>
-      <a href="[decktop.us/80ScCFegl](https://app.decktopus.com/share/80ScCFegl/s/1)">presentation</a>
-</h4>
+  
+      <a href=" https://app.decktopus.com/share/80ScCFegl/s/1
+">presentation</a>
+
+ </h4>
 
 
